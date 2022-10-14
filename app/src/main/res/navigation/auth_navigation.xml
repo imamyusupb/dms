@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/auth_navigation.xml"
+    app:startDestination="@id/openingScreenFragment">
+
+    <fragment
+        android:id="@+id/openingScreenFragment"
+        android:name="seino.indomobil.dmsmobile.presentation.ui.auth.OpeningScreenFragment"
+        android:label="fragment_opening_screen"
+        tools:layout="@layout/fragment_opening_screen" >
+        <action
+            android:id="@+id/action_openingScreenFragment_to_onBoardSlideFragment"
+            app:destination="@id/onBoardSlideFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+    <fragment
+        android:id="@+id/onBoardSlideFragment"
+        android:name="seino.indomobil.dmsmobile.presentation.ui.auth.OnBoardSlideFragment"
+        android:label="fragment_on_board_slide"
+        tools:layout="@layout/fragment_on_board_slide" >
+        <action
+            android:id="@+id/action_onBoardSlideFragment_to_loginFragment"
+            app:destination="@id/loginFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popEnterAnim="@anim/nav_default_pop_enter_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="seino.indomobil.dmsmobile.presentation.ui.auth.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+</navigation>

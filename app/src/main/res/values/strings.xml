@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DMS Mobile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="id_pengguna">Id Pengguna</string>
+    <string name="logo_dms">logo dms</string>
+    <string name="selamat">Selamat</string>
+    <string name="datang">Datang</string>
+    <string name="Password">Password</string>
+    <string name="lupa_sandi">Lupa Sandi ?</string>
+    <string name="masuk">Masuk</string>
+    <string name="dms_logo">dms logo</string>
+    <string name="judul_splash">DMS\nMobile</string>
+    <string name="gps_request">GPS anda belum aktif, harap aktifkan terlebih dahulu</string>
+    <string name="ok">OK</string>
+
+    <!--    this is onboarding String-->
+    <string name="titleonboard1">Order pekerjaan lebih mudah</string>
+    <string name="titleonboard2">Tracking Tujuan Perjalanan</string>
+    <string name="titleonboard3">Manajemen Task</string>
+    <string name="desconboard1">Dengan DMS Mobile proses order pekerjaan terasa lebih mudah, sehingga membantu driver melaksanakan tugasnya</string>
+    <string name="desconboard2">DMS Mobile juga mempermudah driver untuk memantau status pengiriman barang</string>
+    <string name="desconboard3">Dms Mobile mempermudah driver untuk membantu report dan task yang harus dikerjakan selama di perjalanan </string>
+    <string name="mulai">Masuk</string>
+    <string name="gambar_onboard">gambar onboard</string>
+    <string name="kembali">Kembali</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="notification">Channel</string>
+    <!--    this is end onboarding String-->
+</resources>

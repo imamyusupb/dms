@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418639671365",
+    "firebase_url": "https://dmsmobile-66c2e.firebaseio.com",
+    "project_id": "dmsmobile-66c2e",
+    "storage_bucket": "dmsmobile-66c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418639671365:android:b84c3dd60dd8e941a2332c",
+        "android_client_info": {
+          "package_name": "seino.indomobil.dmsmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418639671365-dnt60pk63e8b2apjegqao22gjn97qmaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "seino.indomobil.dmsmobile",
+            "certificate_hash": "f96c6ee1c373f1a1a75fa2d3627a207c5897d2a9"
+          }
+        },
+        {
+          "client_id": "418639671365-abiagtfq7jv98icnd4djq3krbqkcnet5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpftrG-bpMv-giYY46kwd3OqNgyDDuJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418639671365-abiagtfq7jv98icnd4djq3krbqkcnet5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

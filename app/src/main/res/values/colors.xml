@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#FCFDFD</color>
+    <color name="yellow">#F7B419</color>
+    <color name="color_dark_yellow">#DA9904</color>
+    <color name="colorPrimary">#5C6DB0</color>
+    <color name="color_blue">#4A5D9E</color>
+    <color name="colorPrimaryDark">#243E7B</color>
+    <color name="color_teal_200">#FF03DAC5</color>
+    <color name="color_teal_700">#FF018786</color>
+    <color name="color_black">#FF000000</color>
+    <color name="color_white">#FFFFFFFF</color>
+    <color name="color_warm_white">#EAEAEA</color>
+    <color name="color_light_gray">#E3E0E0</color>
+    <color name="color_line_dashboard">#0D0F5D85</color>
+    <color name="color_line">#ECEFF2</color>
+    <color name="color_gray">#BDBBBB</color>
+    <color name="color_dark_gray">#A3A1A1</color>
+    <color name="color_dark_gray2">#938E8E</color>
+    <color name="color_dark_gray3">#898A8D</color>
+    <color name="color_dark_gray4">#5E5E5E</color>
+    <color name="color_green">#168581</color>
+    <color name="color_green3">#2EB985</color>
+    <color name="color_green4">#18AE17</color>
+
+    <color name="color_dark_green">#09696A</color>
+    <color name="color_green2">#E9FDFF</color>
+    <color name="color_red">#F05253</color>
+    <color name="color_red2">#FF2626</color>
+    <color name="color_black2">#3B3B3B</color>
+    <color name="color_black3">#5C5959</color>
+    <color name="color_gray2">#C4C4C4</color>
+    <color name="color_gray3">#DADDDF</color>
+    <color name="color_dark_gray5">#868686</color>
+    <color name="color_dark_gray6">#979797</color>
+    <color name="color_dark_gray7">#B3B3B3</color>
+    <color name="color_dark_gray8">#949494</color>
+    <color name="color_light_gray2">#AAAAAA</color>
+    <color name="color_light_gray3">#DADADA</color>
+    <color name="color_blue_transparent">#16168581</color>
+    <color name="color_yellow_transparent">#FFF8E6</color>
+    <color name="color_yellow2">#FCC843</color>
+    <color name="color_yellow3">#FFB200</color>
+    <color name="color_black_transparent">#3B3B3B45</color>
+</resources>
